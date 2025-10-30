@@ -12,7 +12,9 @@ Knapsack RL is a new approach for allocating exploration budgets in Reinforcemen
 <img src="./images/knapsack.png" width=600>
 
 Click to view the abstract.
+
 <details> 
+
 Large Language Models (LLMs) can self-improve through reinforcement learning, where they
 generate trajectories to explore and discover better solutions. However, this exploration process is
 computationally expensive, often forcing current methods to assign limited exploration budgets to
@@ -31,7 +33,8 @@ These improvements translate to meaningful gains on mathematical reasoning bench
 average improvements of 2-4 points and peak gains of 9 points on specific tasks. Notably, achieving
 comparable performance with traditional homogeneous allocation would require about 2x the
 computational resources.
-</detail>
+
+</details>
 
 
 ## Features
